@@ -1,0 +1,61 @@
+
+body{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 20px;
+}
+
+
+h1 {font-family: cursive;
+    font-size: 48px;
+    color: aliceblue;
+
+}
+
+h2 {font-family: fantasy;
+    font-size: 48px;
+    color: YELLOW;
+}
+
+p {font-family: monospace;
+    font-size: 20px;
+    color: blue;
+    background-color: antiquewhite;
+    border:	2px	solid YELLOW;	
+    padding: 10px;
+
+}
+
+
+.credits {text-align: center;
+    font-size: 16;
+    width: 500px;   
+}
+.copyrights {text-align: center;
+             font-size: 14px;
+    
+}
+
+
+
+a {color:blue;
+   text-decoration: none;
+    
+}
+
+button { font-family:monospace;
+    font-size: 14px;
+    background-color: yellow;
+    text-align: center;
+    border:	2px	solid YELLOW;	
+    padding: 3px;
+    width: 120px;
+    margin-right: 20px;
+   
+} 
+
+div {display: block;
+     margin-left: auto;
+     margin-right: auto;
+    
+}
